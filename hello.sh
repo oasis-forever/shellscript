@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Fuck you"
+echo "Hello"
